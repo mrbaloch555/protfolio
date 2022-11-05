@@ -38,7 +38,7 @@ const Projects = () => {
               bordered={false}
               round={false}
               style={{
-                width: 340,
+                width: 320,
                 // height: 20,
               }}
               cover={
@@ -47,7 +47,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "430px",
                       // maxHeight: "100%",
                       objectFit: "contain",
@@ -111,7 +111,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 340,
+                width: 320,
               }}
               cover={
                 <div className="img">
@@ -119,7 +119,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -146,7 +146,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 340,
+                width: 320,
               }}
               cover={
                 <div className="img">
@@ -154,7 +154,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -185,7 +185,7 @@ const Projects = () => {
               bordered={false}
               round={false}
               style={{
-                width: 340,
+                width: 320,
                 // height: 20,
               }}
               cover={
@@ -194,7 +194,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "425px",
                       // maxHeight: "100%",
                       backgroundColor: "white",
@@ -257,7 +257,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 340,
+                width: 320,
               }}
               cover={
                 <div className="img">
@@ -265,7 +265,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -292,7 +292,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 340,
+                width: 320,
               }}
               cover={
                 <div className="img">
@@ -300,7 +300,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "340px",
+                      width: "320px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",

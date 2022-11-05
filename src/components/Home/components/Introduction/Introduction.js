@@ -20,7 +20,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 31%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -57,7 +57,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 32%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -94,7 +94,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 30%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -134,7 +134,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 30%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -172,7 +172,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 30%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -209,7 +209,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 30%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -249,7 +249,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 33%",
+              margin: "auto 25%",
             }}
           >
             <SlidersFilled
@@ -287,7 +287,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 31%",
+              margin: "auto 25%",
             }}
           >
             <i
@@ -325,7 +325,7 @@ const Introduction = () => {
               width: "200px",
               height: "200px",
               borderRadius: "50%",
-              margin: "auto 32%",
+              margin: "auto 25%",
             }}
           >
             <VideoCameraFilled

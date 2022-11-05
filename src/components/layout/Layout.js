@@ -26,6 +26,7 @@ const App = () => {
         trigger={null}
         collapsible
         collapsed={collapsed}
+        className="sidebar"
         style={{
           minHeight: "100vh",
           position: "fixed",
@@ -84,7 +85,7 @@ const App = () => {
       </Sider>
       <Layout className="site-layout" style={{ margin: "0px", padding: "0px" }}>
         <Header
-          className="site-layout-background"
+          className="site-layout-background header"
           style={{
             padding: "10px",
             display: "flex",

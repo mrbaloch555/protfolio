@@ -197,7 +197,7 @@ const Skills = () => {
                 round={false}
                 className="col"
                 style={{
-                  width: 350,
+                  width: 320,
                 }}
               >
                 <div className="skill-content">
@@ -246,7 +246,7 @@ const Skills = () => {
                 round={false}
                 className="col"
                 style={{
-                  width: 350,
+                  width: 320,
                 }}
               >
                 <div className="skill-content">
@@ -292,7 +292,7 @@ const Skills = () => {
                 round={false}
                 className="col"
                 style={{
-                  width: 350,
+                  width: 320,
                 }}
               >
                 <div className="skill-content">
@@ -341,7 +341,7 @@ const Skills = () => {
                 className="col"
                 round={false}
                 style={{
-                  width: 350,
+                  width: 320,
                 }}
               >
                 <div className="skill-content">
@@ -393,7 +393,7 @@ const Skills = () => {
                 round={false}
                 className="col"
                 style={{
-                  width: 350,
+                  width: 320,
                 }}
               >
                 <div className="skill-content">

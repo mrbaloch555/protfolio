@@ -14,7 +14,7 @@ const About = () => {
           <div style={{ marginTop: "3rem" }}>
             <img
               src="/images/dk.jpeg"
-              style={{ width: 350, borderRadius: "50%" }}
+              style={{ width: 320, borderRadius: "50%" }}
             ></img>
             <div style={{ marginTop: "1rem" }}>
               <h2>Durrah Khan</h2>

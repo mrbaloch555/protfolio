@@ -62,7 +62,7 @@ const About = () => {
                 </div>
               </Col>
               <Col
-                span={17}
+                span={22}
                 className="overview-col"
                 style={{
                   display: displayBox.overview,
@@ -399,7 +399,6 @@ const About = () => {
                   </div>
                 </div>
               </Col>
-              <Col span={5}></Col>
             </Row>
           </div>
         </div>

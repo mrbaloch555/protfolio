@@ -9,9 +9,9 @@
     overflow: hidden;
     height: 100vh;
     .content {
-        width: 80%;
+        width: 100%;
         height: 10vh !important;
-        margin: auto 10%;
+        // margin: auto 10%;
         background-color: #a90e0e;
         .title {
             h1 {
@@ -190,6 +190,45 @@
                 margin-left: 20px;
                 border-radius: 3px;
             }
+        }
+    }
+    @media screen and (max-width: 799px) {
+        font-size: 12px !important;
+        .content {
+            background-color: #a90e0e;
+        }
+        .content-box {
+        }
+        .overview-col {
+            // background-color: #a90e0e;
+            .overviw-content {
+                font-size: 14px !important;
+                text-align: left !important;
+                text-align: left !important;
+                width: 95% !important;
+
+                p {
+                    text-align: justify;
+                    padding: 0.3rem !important;
+                    p:not(:last-child):after {
+                        content: "";
+                        display: inline-block;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+        .btns {
+            margin-left: -20px;
+        }
+
+        .education-content {
+            width: 140% !important;
+            // background-color: #c70a0a;
+        }
+        .experience-content {
+            width: 140% !important;
+            // background-color: #c70a0a;
         }
     }
 }

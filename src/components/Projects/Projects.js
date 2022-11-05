@@ -17,55 +17,16 @@ const Projects = () => {
       <div
         className="projects"
         style={{
-          padding: "0px",
+          padding: "20px",
           // margin: "auto 20px",
           // backgroundColor: "red",
-          marginBottom: "60px !important",
+          // marginBottom: "60px !important",
         }}
       >
-        <Row style={{ width: "100%", padding: "2rem", overflow: "hidden" }}>
+        <Row style={{ width: "100%", overflow: "hidden" }}>
           <Col
-            xl={6}
-            lg={8}
-            md={12}
-            sm={24}
-            style={{ marginBottom: "1rem" }}
-            className="col"
-            onClick={() => naviagte("/soceity")}
-          >
-            <Card
-              hoverable
-              bordered={false}
-              round={false}
-              style={{
-                width: 320,
-                // height: 20,
-              }}
-              cover={
-                <div className="img">
-                  <img
-                    //   style={{ width: "400px", height: "400px" }}
-                    style={{
-                      maxWdith: "100%",
-                      width: "320px",
-                      height: "430px",
-                      // maxHeight: "100%",
-                      objectFit: "contain",
-                      backgroundColor: "white",
-                    }}
-                    alt="Scoiety S1"
-                    src="images/sone/Splash.png"
-                  />
-                </div>
-              }
-            >
-              <Meta title="Social Soceity" />
-            </Card>
-          </Col>
-
-          <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -75,7 +36,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -83,7 +44,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -98,10 +59,9 @@ const Projects = () => {
               <Meta title="AJS Sports" />
             </Card>
           </Col>
-
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -111,7 +71,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -119,7 +79,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -135,8 +95,8 @@ const Projects = () => {
             </Card>
           </Col>
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -146,7 +106,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -154,7 +114,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -170,10 +130,10 @@ const Projects = () => {
             </Card>
           </Col>
         </Row>
-        <Row style={{ width: "100%", padding: "2rem", overflow: "hidden" }}>
+        <Row style={{ width: "100%", overflow: "hidden" }}>
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -185,7 +145,7 @@ const Projects = () => {
               bordered={false}
               round={false}
               style={{
-                width: 320,
+                width: 400,
                 // height: 20,
               }}
               cover={
@@ -194,7 +154,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "425px",
                       // maxHeight: "100%",
                       backgroundColor: "white",
@@ -208,10 +168,9 @@ const Projects = () => {
               <Meta title="Adeel Bux" />
             </Card>
           </Col>
-
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -221,7 +180,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -229,7 +188,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -244,10 +203,9 @@ const Projects = () => {
               <Meta title="Investment Mind" />
             </Card>
           </Col>
-
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -257,7 +215,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -265,7 +223,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -280,9 +238,11 @@ const Projects = () => {
               <Meta title="Learning Managment System" />
             </Card>
           </Col>
+        </Row>
+        <Row style={{ width: "100%", overflow: "hidden" }}>
           <Col
-            xl={6}
-            lg={8}
+            xl={8}
+            lg={12}
             md={12}
             sm={24}
             style={{ marginBottom: "1rem" }}
@@ -292,7 +252,7 @@ const Projects = () => {
             <Card
               hoverable
               style={{
-                width: 320,
+                width: 400,
               }}
               cover={
                 <div className="img">
@@ -300,7 +260,7 @@ const Projects = () => {
                     //   style={{ width: "400px", height: "400px" }}
                     style={{
                       // maxWdith: "100%",
-                      width: "320px",
+                      width: "400px",
                       height: "430px",
                       // // maxHeight: "100%",
                       // objectFit: "contain",
@@ -315,10 +275,46 @@ const Projects = () => {
               <Meta title="HRM Managment System" />
             </Card>
           </Col>
+          <Col
+            xl={8}
+            lg={12}
+            md={12}
+            sm={24}
+            style={{ marginBottom: "1rem" }}
+            className="col"
+            onClick={() => naviagte("/soceity")}
+          >
+            <Card
+              hoverable
+              bordered={false}
+              round={false}
+              style={{
+                width: 400,
+              }}
+              cover={
+                <div className="img">
+                  <img
+                    //   style={{ width: "400px", height: "400px" }}
+                    style={{
+                      maxWdith: "100%",
+                      width: "400px",
+                      height: "430px",
+                      // maxHeight: "100%",
+                      objectFit: "contain",
+                      backgroundColor: "white",
+                    }}
+                    alt="Scoiety S1"
+                    src="images/sone/Splash.png"
+                  />
+                </div>
+              }
+            >
+              <Meta title="Social Soceity" />
+            </Card>
+          </Col>
         </Row>
       </div>
     </div>
   );
 };
-
 export default Projects;

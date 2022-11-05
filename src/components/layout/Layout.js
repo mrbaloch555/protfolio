@@ -31,7 +31,6 @@ const App = () => {
           minHeight: "100vh",
           position: "fixed",
           zIndex: 1,
-          borderRight: "5px solid #0b6ee7",
         }}
       >
         {/* <Menu theme="dark" mode="inline" style={{ padding: "10px" }}>

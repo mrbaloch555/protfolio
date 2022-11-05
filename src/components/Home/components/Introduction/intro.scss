@@ -1,0 +1,24 @@
+.introduction-wrapper {
+    // display: flex;
+    // padding: 3rem;
+    align-items: center !important;
+    text-align: center;
+    color: rgb(44, 44, 44) !important;
+    .title {
+        margin-top: 5.2rem;
+        color: rgb(97, 94, 94);
+        text-transform: uppercase;
+        font-size: 45px;
+    }
+    i {
+        font-size: 14px;
+        color: gray;
+    }
+    .skills {
+        // margin-top: 30px !important;
+        // align-items: center;
+        // text-align: left;
+        // padding: 1rem 10rem;
+        // margin-left: 5rem;
+    }
+}

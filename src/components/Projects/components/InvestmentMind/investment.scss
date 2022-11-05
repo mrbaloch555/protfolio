@@ -1,0 +1,64 @@
+.investment-wrapper {
+    background-color: rgb(236, 236, 236);
+    // min-height: 93vh;
+    color: black;
+    overflow: hidden;
+    .landing {
+        background-image: url("./ezgif.com-gif-maker.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        width: 100%;
+        height: 95vh;
+        justify-content: center;
+        padding: 4rem;
+        .intro {
+            background-color: rgb(32, 32, 32);
+            // width: 60%;
+            height: 50vh;
+            // margin: auto 20%;
+            border-radius: 10px;
+            margin-top: 4rem;
+            .title {
+                text-align: center;
+                justify-content: flex-start;
+                // position: relative;
+                padding: 9rem 0rem 0rem 0rem;
+                text-transform: uppercase;
+                letter-spacing: 12px;
+            }
+            .stacks {
+                text-align: center;
+            }
+        }
+    }
+
+    .description-wrapper {
+        background-color: #efac31;
+        padding: 5rem 3rem;
+        .des-contents {
+            background-color: white;
+            min-height: 100vh;
+            color: black !important;
+            border-radius: 10px;
+            padding-bottom: 3rem;
+            .title {
+                color: black;
+                padding: 2rem 0rem 0rem 2rem;
+            }
+
+            .pro-images {
+                .col {
+                    margin-bottom: 10px;
+                    width: 100%;
+                    margin: auto 3%;
+                }
+                img {
+                    width: 90%;
+                    // height: 90vh;
+                    border: 2px solid black;
+                    margin-bottom: 2rem;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+.not-found-wrapper {
+    background-color: rgb(236, 236, 236);
+    // min-height: 93vh;
+    color: black;
+    overflow: hidden;
+    .landing {
+        background-image: url("./ezgif.com-gif-maker.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        width: 100%;
+        height: 93.5vh;
+        justify-content: center;
+        padding: 4rem;
+        .intro {
+            background-color: rgb(32, 32, 32);
+            // width: 60%;
+            height: 50vh;
+            // margin: auto 20%;
+            border-radius: 10px;
+            .title {
+                text-align: center;
+                justify-content: flex-start;
+                // position: relative;
+                padding: 9rem 0rem 0rem 0rem;
+                text-transform: uppercase;
+                letter-spacing: 12px;
+            }
+            .icon {
+                font-size: 40px;
+                padding: 2rem;
+                color: white;
+                text-align: center;
+                width: 100%;
+            }
+            .stacks {
+                text-align: center;
+            }
+        }
+    }
+}
